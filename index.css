@@ -1,30 +1,7 @@
-@font-face {
-  font-family: 'Poppins';
-  src: url('./assets/fonts/poppins/Poppins-Black.ttf');
-}
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 
-body { 
-  font-family: 'Poppins';
-}
-
-nav .navbar-brand {
-  font-family: 'Poppins';
-}
-
-nav .navbar-nav li a {
-  font-family: 'Poppins';
-}
-
-.wrapper h3 {
-  font-family: 'Poppins';
-}
-
-.wrapper h3 strong {
-  font-family: 'Poppins';
-}
-
-.content-area h2 {
-  font-family: 'Poppins';
+body {
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 #img-display-picture {
@@ -40,5 +17,4 @@ nav .navbar-nav li a {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  font-family: 'Poppins';
 }
